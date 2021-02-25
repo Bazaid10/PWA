@@ -4,7 +4,7 @@ var cacheFiles = [
     'product.js',
     'petstore.webmanifest',
     'images/yarn.jpg',
-    'images/cat.jpg',
+    'images/catfood.jpg',
     'images/laser.jpg',
     'images/icon-store-512.png'
 ];
