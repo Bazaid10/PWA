@@ -14,6 +14,11 @@
             text-align: center; 
         }
     </style>
+    <style>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service-worker.js');
+        };
+    </style>
 </head>
 
 <body>
